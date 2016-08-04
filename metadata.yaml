@@ -1,0 +1,70 @@
+_repo: Stories-by-Foreign-Authors--Scandinavian_5336
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Goldschmidt, Meïr
+    aliases:
+    - Goldschmidt, M. (Meïr)
+    - Goldschmidt, Meyer Aaron
+    birthdate: 1819
+    deathdate: 1887
+    gutenberg_agent_id: '1774'
+    url: http://www.gutenberg.org/2009/agents/1774
+  - agent_name: Aho, Juhani
+    aliases:
+    - Brofeldt, Juhani
+    - Aho, Johani
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '1773'
+    url: http://www.gutenberg.org/2009/agents/1773
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Juhani_Aho
+    - http://fi.wikipedia.org/wiki/Juhani_Aho
+  - agent_name: Kielland, Alexander Lange
+    aliases:
+    - Kjelland, Alexander Lange
+    - Kielland, Aleksander L.
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '1776'
+    url: http://www.gutenberg.org/2009/agents/1776
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Kielland
+  - agent_name: Bremer, Fredrika
+    aliases:
+    - Bremer, Frederika
+    - Bremer, Frederica
+    birthdate: 1801
+    deathdate: 1865
+    gutenberg_agent_id: '1775'
+    url: http://www.gutenberg.org/2009/agents/1775
+    wikipedia: http://en.wikipedia.org/wiki/Fredrika_Bremer
+  - agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Bjornson, Bjornstjerne
+    - Björnson, Björnstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Scandinavian -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: The father / Björnstjerne Björnson -- When father brought home
+  the lamp / Juhani Aho -- The flying mail / M. Goldschmidt -- The railroad and the
+  churchyard / Björnstjerne Björnson -- Two friends / Alexander Kielland -- Hopes
+  / Frederika Bremer.
+title: 'Stories by Foreign Authors: Scandinavian'
+url: http://www.gutenberg.org/ebooks/5336
