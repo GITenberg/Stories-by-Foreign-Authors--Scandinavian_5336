@@ -1,5 +1,5 @@
 _repo: Stories-by-Foreign-Authors--Scandinavian_5336
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Goldschmidt, Meïr
@@ -48,7 +48,12 @@ contributor:
     gutenberg_agent_id: '1772'
     url: http://www.gutenberg.org/2009/agents/1772
     wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5336#Stories-by-Foreign-Authors--Scandinavian
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
